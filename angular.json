@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hydro-fe"
+    }
+  },
+  "defaultProject": "hydro-fe",
+  "cli": {
+    "analytics": "d3ecb192-a231-45d5-92ca-01e20b1b961c"
+  }
 }
